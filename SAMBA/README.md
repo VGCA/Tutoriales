@@ -15,4 +15,8 @@ Configuramos el equipo cambiándole el nombre del equipo.
 
 ![](./img/1.png)
 
+Ahora cambiamos el nombre del host y la dirección IP y la ponemos fija de esta manera.
+
+![](./img/2.png)
+
 
